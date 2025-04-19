@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\c#\Csharp\WindowsForms_1\bin\Debug\WindowsForms_1.exe.config
+C:\Users\hp\Desktop\c#\Csharp\WindowsForms_1\bin\Debug\WindowsForms_1.exe
+C:\Users\hp\Desktop\c#\Csharp\WindowsForms_1\bin\Debug\WindowsForms_1.pdb
+C:\Users\hp\Desktop\c#\Csharp\WindowsForms_1\obj\Debug\WindowsForms_1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\c#\Csharp\WindowsForms_1\obj\Debug\WindowsForms_1.Form1.resources
+C:\Users\hp\Desktop\c#\Csharp\WindowsForms_1\obj\Debug\WindowsForms_1.Properties.Resources.resources
+C:\Users\hp\Desktop\c#\Csharp\WindowsForms_1\obj\Debug\WindowsForms_1.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\c#\Csharp\WindowsForms_1\obj\Debug\WindowsForms_1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\c#\Csharp\WindowsForms_1\obj\Debug\WindowsForms_1.exe
+C:\Users\hp\Desktop\c#\Csharp\WindowsForms_1\obj\Debug\WindowsForms_1.pdb
+C:\Users\hp\Desktop\c#\Csharp\WindowsForms_1\obj\Debug\WindowsForms_1.FrmMain.resources
+C:\Users\hp\Desktop\c#\Csharp\WindowsForms_1\obj\Debug\WindowsForms_1.frmMessageBox.resources
+C:\Users\hp\Desktop\c#\Csharp\WindowsForms_1\obj\Debug\WindowsForms_1.frmCheckRadioGroup.resources
